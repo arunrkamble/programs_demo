@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.357">
+  <properties />
+  
+  
+            <testcase name="f" time="1.451" classname="Execute.NewTest" />
+                <testcase name="f" time="2.616" classname="Execute.NewTest" />
+                <testcase name="f" time="1.241" classname="Execute.NewTest" />
+                <testcase name="f" time="8.051" classname="Execute.NewTest" />
+                <testcase name="f" time="1.998" classname="Execute.NewTest" />
+      
+</testsuite>

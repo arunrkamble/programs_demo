@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T19:52:08 IST" name="Default suite" finished-at="2023-04-27T19:54:32 IST" duration-ms="144166">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T19:52:08 IST" name="Default test" finished-at="2023-04-27T19:54:32 IST" duration-ms="144166">
+      <class name="Execute.NewTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:52:10 IST" name="beforeMethod" finished-at="2023-04-27T19:52:59 IST" duration-ms="49464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:52:59 IST" name="f" data-provider="DP" finished-at="2023-04-27T19:53:01 IST" duration-ms="1867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arunrkamble1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7040767892]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:01 IST" name="afterMethod" finished-at="2023-04-27T19:53:04 IST" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:04 IST" name="beforeMethod" finished-at="2023-04-27T19:53:22 IST" duration-ms="18744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:22 IST" name="f" data-provider="DP" finished-at="2023-04-27T19:53:24 IST" duration-ms="1269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[…]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arunrkamble1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7040767892]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:24 IST" name="afterMethod" finished-at="2023-04-27T19:53:26 IST" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:26 IST" name="beforeMethod" finished-at="2023-04-27T19:53:46 IST" duration-ms="19968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:46 IST" name="f" data-provider="DP" finished-at="2023-04-27T19:53:47 IST" duration-ms="1123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arunrkamble1997]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7040767892]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:47 IST" name="afterMethod" finished-at="2023-04-27T19:53:47 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:53:47 IST" name="beforeMethod" finished-at="2023-04-27T19:54:06 IST" duration-ms="18434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:54:06 IST" name="f" data-provider="DP" finished-at="2023-04-27T19:54:07 IST" duration-ms="1616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arunrkamble1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PASS@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7040767892]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:54:07 IST" name="afterMethod" finished-at="2023-04-27T19:54:08 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:54:08 IST" name="beforeMethod" finished-at="2023-04-27T19:54:29 IST" duration-ms="20616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:54:29 IST" name="f" data-provider="DP" finished-at="2023-04-27T19:54:30 IST" duration-ms="1238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arunrkamble1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7.04077E+11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Execute.NewTest@306e95ec]" started-at="2023-04-27T19:54:30 IST" name="afterMethod" finished-at="2023-04-27T19:54:32 IST" duration-ms="2245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Execute.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
